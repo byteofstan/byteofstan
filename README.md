@@ -12,8 +12,9 @@
 - 🐍 I write advanced **Python automation scripts** and **web scrapers** using tools like Selenium, Playwright, and BeautifulSoup  
 - 🌐 I build full-stack web apps with **Django**, **Flask**, **FastAPI**, **Next.js**, and **Nuxt.js**  
 - ⚙️ I'm perfecting my use of **FastAPI** for high-performance APIs and **Rust** for blazing-fast backend tasks  
+- 📱 Recently built a **TikTok video downloader** that grew to **1M+ users**, focusing on scalability, performance, and clean UX  
 - 🧠 I enjoy developer tooling, CI/CD pipelines, and building efficient, scalable microservices  
-- 🧰 DevOps-aware: I containerize with Docker, test with GitHub Actions, and deploy to Vercel/Netlify, AWS, Digital Ocean
+- 🧰 DevOps-aware: I containerize with Docker, test with GitHub Actions, and deploy to Vercel/Netlify, AWS, Digital Ocean  
 - 📫 Reach me: [Twitter](https://twitter.com/) • [LinkedIn](https://linkedin.com/) • [Portfolio](#)
 
 ---
@@ -61,6 +62,9 @@
 ---
 
 ### 🚀 Featured Projects
+
+- 📥 **TikTok Video Downloader**  
+  A fast, scalable downloader that serves millions of users. Built with Python, FastAPI, and deployed on a CDN-backed infrastructure to handle traffic spikes and media caching.
 
 - 🔍 **Web Scraper CLI Tool**  
   Python-based CLI using BeautifulSoup, Selenium & Playwright to extract, transform, and export data.
