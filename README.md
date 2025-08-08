@@ -15,7 +15,7 @@
 - 📱 Recently built a **TikTok video downloader** that grew to **1M+ users**, focusing on scalability, performance, and clean UX  
 - 🧠 I enjoy developer tooling, CI/CD pipelines, and building efficient, scalable microservices  
 - 🧰 DevOps-aware: I containerize with Docker, test with GitHub Actions, and deploy to Vercel/Netlify, AWS, Digital Ocean  
-- 📫 Reach me: [Twitter](https://twitter.com/) • [LinkedIn](https://linkedin.com/) • [Portfolio](#)
+- 📫 Reach me: [Twitter]([https://twitter.com/](https://x.com/stanleysimon_)) • [LinkedIn](www.linkedin.com/in/byteofstan) • [Portfolio](https://www.stanleysimon.dev/)
 
 ---
 
@@ -89,7 +89,7 @@
 ### 💬 Let's Connect
 
 ```md
-📫 byteofstan [at] gmail.com  
-🐦 Twitter: https://twitter.com/  
-💼 LinkedIn: https://linkedin.com/  
+📫 hello [at] stanleysimon.dev  
+🐦 Twitter: [@stanleysimon_](https://x.com/stanleysimon_)  
+💼 LinkedIn: [@byteofstan](www.linkedin.com/in/byteofstan)  
 🌐 Portfolio: [https://www.stanleysimon.dev](https://www.stanleysimon.dev/)  
