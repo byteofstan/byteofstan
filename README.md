@@ -92,4 +92,4 @@
 📫 byteofstan [at] gmail.com  
 🐦 Twitter: https://twitter.com/  
 💼 LinkedIn: https://linkedin.com/  
-🌐 Portfolio: https://your-portfolio.com  
+🌐 Portfolio: [https://www.stanleysimon.dev](https://www.stanleysimon.dev/)  
